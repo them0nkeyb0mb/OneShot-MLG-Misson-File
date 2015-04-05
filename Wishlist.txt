@@ -1,0 +1,12 @@
+1. http://www.altisliferpg.com/topic/6253-tut-fence-cutting/?hl=%2Bprison+%2Bbreak
+2. http://www.gaming-asylum.com/portfolio-view/prison-breaks/
+3. https://community.bistudio.com/wiki/Arma_3_CfgVehicles_EMPTY Land_Runway_PAPI Land_runway_edgelight_blue_F
+4. http://www.altisliferpg.com/topic/6245-speed-radar-cam-yes-another-but-different/?hl=%2Bspeed+%2Bcamera
+5. go into mission.sqm add altiscorrections.png to signs outside of prison
+6. https://community.bistudio.com/wiki/File:Arma3_CfgVehicles_I_UGV_01_F.jpg  HATO Speed Car
+7.
+8.
+9.
+10.
+11.
+12.
